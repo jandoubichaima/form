@@ -1,0 +1,32 @@
+.forms{
+background: white;
+    width: 700px;
+padding:20px ;
+border-radius: 5px;
+
+}
+body{    background: linear-gradient(135deg, #71b7e6,#9b59b6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.abc{
+    display: flex;
+    flex-wrap: wrap;
+    gap:20px;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+input{height: 30px;}
+.fh{gap:30px;
+    display: flex;
+
+}
+button{background:linear-gradient(135deg, #71b7e6,#9b59b6) ;
+width:300px;
+border-color:transparent ;
+margin-top: 10px;
+}
+
+
